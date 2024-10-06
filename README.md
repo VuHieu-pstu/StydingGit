@@ -1,0 +1,2 @@
+# StydingGit
+First Git project
